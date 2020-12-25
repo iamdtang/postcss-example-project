@@ -1,0 +1,8 @@
+html {
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+}
+
+select {
+  appearance: none;
+}
